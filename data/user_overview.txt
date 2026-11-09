@@ -1,0 +1,24 @@
+USER OVERVIEW
+Total registered users: 3
+Total tasks: 4
+
+admin
+Tasks assigned: 2
+Percentage of all tasks assigned: 50.00%
+Percentage of assigned tasks completed: 100.00%
+Percentage of assigned tasks incomplete: 0.00%
+Percentage of assigned tasks overdue and incomplete: 0.00%
+
+wyatt
+Tasks assigned: 1
+Percentage of all tasks assigned: 25.00%
+Percentage of assigned tasks completed: 100.00%
+Percentage of assigned tasks incomplete: 0.00%
+Percentage of assigned tasks overdue and incomplete: 0.00%
+
+jeff
+Tasks assigned: 1
+Percentage of all tasks assigned: 25.00%
+Percentage of assigned tasks completed: 100.00%
+Percentage of assigned tasks incomplete: 0.00%
+Percentage of assigned tasks overdue and incomplete: 0.00%
